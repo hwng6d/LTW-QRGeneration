@@ -1,1 +1,1 @@
-# Ch-ng-tr-nh-t-o-m-QR
+# Chuong-trinh-tao-ma-QR
