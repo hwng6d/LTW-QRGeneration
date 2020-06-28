@@ -1,0 +1,1 @@
+DBCC CHECKIDENT('ListProducts', RESEED, 0)
